@@ -68,7 +68,7 @@
       },
       {
         "file": ".gitignore",
-        "hash": "91109559695469517"
+        "hash": "14555918630938920276"
       },
       {
         "file": ".vscode/extensions.json",
@@ -80,11 +80,15 @@
       },
       {
         "file": "angular.json",
-        "hash": "11992048326398934745"
+        "hash": "12609113634043900485"
       },
       {
         "file": "capacitor.config.ts",
         "hash": "11182176725790320373"
+      },
+      {
+        "file": "firebase.json",
+        "hash": "1389868326933519382"
       },
       {
         "file": "ionic.config.json",
@@ -96,11 +100,11 @@
       },
       {
         "file": "package-lock.json",
-        "hash": "3232633292042238308"
+        "hash": "3561636691232082666"
       },
       {
         "file": "package.json",
-        "hash": "6335917679540047388"
+        "hash": "9032154488841466802"
       },
       {
         "file": "src/app/app-routing.module.ts",
@@ -124,7 +128,7 @@
       },
       {
         "file": "src/app/app.module.ts",
-        "hash": "5073765293049625490"
+        "hash": "17187187421822503812"
       },
       {
         "file": "src/app/home/home-routing.module.ts",
@@ -136,7 +140,7 @@
       },
       {
         "file": "src/app/home/home.page.html",
-        "hash": "3668328913015384273"
+        "hash": "4459647313562470866"
       },
       {
         "file": "src/app/home/home.page.scss",
@@ -148,7 +152,7 @@
       },
       {
         "file": "src/app/home/home.page.ts",
-        "hash": "1571215977137710084"
+        "hash": "2610339536775163307"
       },
       {
         "file": "src/assets/icon/favicon.png",
@@ -164,7 +168,7 @@
       },
       {
         "file": "src/environments/environment.ts",
-        "hash": "17458466784506237106"
+        "hash": "687100567698810832"
       },
       {
         "file": "src/global.scss",
